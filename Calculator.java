@@ -1,6 +1,6 @@
 package com.bridgelabz2;
 
-public class HelloWorld {
+public class Calculator {
 
 	public static void main(String[] args) {
 
