@@ -10,6 +10,10 @@ public class HelloWorld {
 		c=a+b;
 		System.out.println("Addition of two values is: "+c);
 		
+		int x=10,y=20,z;
+		z=x-y;
+		System.out.println("subtraction of two values is: "+z);
+		
 	
 	
 	}
